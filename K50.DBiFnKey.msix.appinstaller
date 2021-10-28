@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
-	Uri="https://github.com/Midiman66/msix-demo/K50.DBiFnKey.msix.appinstaller"
+	Uri="https://midiman66.github.io/dbi-msix/K50.DBiFnKey.msix.appinstaller"
 	Version="1.0.3.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="8fc038a4-0d42-4a81-a49a-5c130f40ea19"
 		Version="1.0.3.0"
 		Publisher="CN=dbi-store"
-		Uri="https://github.com/Midiman66/msix-demo/K50.DBiFnKey.msix_1.0.3.0_Debug_Test/K50.DBiFnKey.msix_1.0.3.0_x64_Debug.msixbundle" />
+		Uri="https://midiman66.github.io/dbi-msix/K50.DBiFnKey.msix_1.0.3.0_Debug_Test/K50.DBiFnKey.msix_1.0.3.0_x64_Debug.msixbundle" />
 	<UpdateSettings>
 		<OnLaunch
 			HoursBetweenUpdateChecks="0" />
